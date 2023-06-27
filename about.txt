@@ -1,0 +1,26 @@
+>> Deskripsi Program
+
+- Nama Program : Program Numerik (Metode Numerik)
+- Dibuat Oleh : M. Revanza Yuzar (Revan)
+- Bahasa Pemrograman : Python
+
+--------------------------------------------------
+
+>> Tujuan Program : Untuk mencari nilai dari f[x4, x3, x2, x1, x0]
+
+--------------------------------------------------
+
+# Program Numerik
+# Python
+# Revanza Yuzar
+# Van Project
+# Pemrograman
+# Program Sederhana
+# Belajar
+# Pemula
+
+--------------------------------------------------
+Copyright© 2023 @revanzayuzar
+--------------------------------------------------
+
+...
